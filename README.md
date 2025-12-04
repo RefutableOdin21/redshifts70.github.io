@@ -1,2 +1,2 @@
 # redshifts70.github.io
-print("a place where no one does wrong."
+A place where no one does wrong
